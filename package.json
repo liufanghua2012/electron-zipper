@@ -1,0 +1,14 @@
+{
+  "name": "electron-zipper",
+  "version": "1.0.0",
+  "description": "i found most of the available zip node_modules may cause errors in electron runtime, since electron made some modifications about the fs node_module for its needs - that is why electron-zipper here.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "readline": "1.3.0"
+  },
+  "author": "leo.liu",
+  "license": "MIT"
+}
