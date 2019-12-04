@@ -6,6 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "compress",
+    "uncompress",
+    "electron",
+    "node",
+    "tgz",
+    "gzip",
+    "tar",
+    "zip",
+    "unzip"
+  ],
   "dependencies": {
     "readline": "1.3.0"
   },
