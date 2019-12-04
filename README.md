@@ -9,4 +9,5 @@ const zipper = new Zipper( {
     targetFilePath: 'xxx.zip',
     toDir: 'tmp'
 });
+
 zipper.unzip();
